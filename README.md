@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a software engineer and full-stack developer with experience in corporate applications development using Java.
 
 <!--
 **muchael/muchael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
